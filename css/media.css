@@ -1,0 +1,165 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+	.header-menu {
+    flex-basis: 100%;
+    justify-content: space-around;
+		margin-top: 12px;
+	}
+	.accord-cont-img {
+	    flex-basis: 300px;
+	}
+	.amenities-cont {
+    flex-wrap: wrap;
+	}
+	.amenities-item {
+    flex-basis: 46%;
+    flex-wrap: wrap;
+    margin: 3% auto;
+	}
+  .btn{
+		flex-basis: 48%;
+	}
+	.inputs {
+		flex-basis: 100%;
+	}
+	input {
+		width: 100%;
+		margin: 10px auto;
+	}
+	.send{
+		margin: auto;
+	}
+	.text-area {
+		flex-basis: 100%!important;
+		margin-bottom: 10px!important;
+		height: 120px!important;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+	#fa-bars{
+		display: flex;
+		margin: auto;
+		cursor: pointer;
+		font-size: 25px;
+	}
+	.header-menu {
+    flex-wrap: wrap;
+		display: none;
+	}
+
+	.header-menu li {
+    flex-basis: 100%;
+    text-align: center;
+		border-top: 1px solid #dcdcdc;
+		border-bottom: 1px solid #dcdcdc;
+	}
+	.description{
+		display: none;
+	}
+	.cont-img {
+    flex-basis: 100%;
+	}
+	.amenities-item {
+    display: flex;
+    flex-basis: 80%;
+    flex-wrap: wrap;
+    margin: 1% auto;
+	}
+  .btn{
+    flex-basis: 80%;
+    margin: 10px auto;
+  }
+  .advantages-item {
+    flex-basis: 60%;
+  }
+  .ability-item {
+    flex-basis: 70%;
+    margin: 30px auto;
+  }
+	.our-partners{
+		display: none;
+	}
+	.clients-slider{
+		display: none;
+	}
+
+
+	/*Disable Animation on Mobile Devices*/
+	.animated {
+		/*CSS transitions*/
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+		/*CSS transforms*/
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		/*CSS animations*/
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
+
+@keyframes change-color {
+   0%{background: #deb961;}
+   25%{background: #c9716d;}
+   50&{background: #a3b978;}
+   75%{background: #2088ab;}
+	 100%{background: #a3b978;}
+ }

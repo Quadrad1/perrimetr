@@ -1,0 +1,99 @@
+<div class="amenities"><!-- AMENITIES -->
+			<div class="amenities-title"><p>Список услуг:</p></div>
+			<div class="amenities-description">
+				<p>
+					Наши цены весьма демократичны и притягательны. Если в ходе обсуждения,
+					цена на разработку сайта или любую другую услугу вам покажется завышенной,
+					по сравнению с другими разработчиками – мы сделаем хорошую скидку.
+				</p>
+			</div>
+			<div class="amenities-cont"><!-- AMENITIES amenities-cont -->
+				<div class="amenities-item"><!-- AMENITIES amenities-item -->
+					<p id="title">Вид печати</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+				</div><!--END AMENITIES amenities-item -->
+
+				<div class="amenities-item"><!-- AMENITIES amenities-item -->
+					<p id="title">Вид печати</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+				</div><!--END AMENITIES amenities-item -->
+
+				<div class="amenities-item"><!-- AMENITIES amenities-item -->
+					<p id="title">Вид печати</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+				</div><!--END AMENITIES amenities-item -->
+
+				<div class="amenities-item"><!-- AMENITIES amenities-item -->
+					<p id="title">Вид печати</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+					<p id = "name">печать</p> <p id = "price">200с</p>
+				</div><!--END AMENITIES amenities-item -->
+			</div><!-- END AMENITIES amenities-cont-->
+		</div><!--END AMENITIES -->
